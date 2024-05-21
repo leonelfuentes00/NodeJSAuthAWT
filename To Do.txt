@@ -1,0 +1,2 @@
+1- Hacer funcionar el auth
+2- Conectar base de datos
